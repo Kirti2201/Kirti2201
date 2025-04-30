@@ -25,7 +25,7 @@ I'm a **Cybersecurity Graduate** passionate about **cloud security**, **threat d
 - **LinkedIn**: https://www.linkedin.com/in/kirti-sharma-a3091721b/
 - **Email**: cyberkirti2201@gmail.com
 
-Let's connect, share knowledge, and grow together in the world of InfoSec! 🌐
+Let's connect, share knowledge, and grow together in the world of cloud and InfoSec! 🌐
 
 ---
 
