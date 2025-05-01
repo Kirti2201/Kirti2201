@@ -9,11 +9,12 @@ I'm a **Cybersecurity Graduate** passionate about **cloud security**, **threat d
 - **Microsoft Certified**: Azure Fundamentals (AZ-900)
 
 ## 🛠️ Skills & Technologies
-- **Cloud Security** (Azure)
-- **Microsoft Sentinel**
-- **DevOps** (Azure DevOps, Bicep, Terraform)
+- **Cloud Administration and Security** (Azure)
+- **Azure Sentinel**
+- **Microsoft Defender**
+- **DevOps** (Azure DevOps, Github, Azure repos)
 - **Incident Response Automation**
-- **Infrastructure as Code (IaC)**
+- **Infrastructure as Code (IaC - Terraform, Bicep)**
 
 ## 🔧 Current Projects
 - **[Cybersecurity Project](https://github.com/Kirti2201/Cybersecurity-Projects)**: Bachelor Project thesis on topic "Cybersecurity challenges in web applications deployed on Azure cloud"
